@@ -1,0 +1,16 @@
+
+body {
+
+  background: black;
+}
+
+.text-center{
+    padding-bottom: 5%;
+    color: white
+}
+
+
+h2, label{
+    color: white;
+}
+
